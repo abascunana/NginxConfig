@@ -1,3 +1,5 @@
+Para el proyecto he elegido un reloj analógico https://github.com/Metroxe/one-html-page-challenge/blob/master/entries/clock.html 
+y un tanque de peces interactivo https://github.com/Metroxe/one-html-page-challenge/blob/master/entries/fishies.html.
 
 El proyecto parte de instalar el servidor mediante sudo apt nginx install e irse al directorio de configuración.![](images/image7.png)
 
